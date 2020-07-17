@@ -1,5 +1,9 @@
 # Memory Leak
 
+OS:
+- Node v12.16.3
+- NPM 6.14.4
+- OSX 10.15.5
 
 ## Reproduce
 Add a valid license key for New Relic in `newrelic.js`.
