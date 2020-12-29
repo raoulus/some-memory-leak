@@ -1,6 +1,5 @@
 require('newrelic');
 const express = require('express')
-const axios = require('axios')
 const got = require('got');
 
 const client = got.extend({
