@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "0.19.2",
     "express": "4.17.1",
-    "got": "^11.8.1",
+    "got": "^11.8.5",
     "newrelic": "6.11.0"
   }
 }
